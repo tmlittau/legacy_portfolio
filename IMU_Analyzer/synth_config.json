@@ -1,0 +1,6 @@
+{
+    "time_length" : 7200.0,
+    "delay" : 0.1,
+    "signal_rate" : 50,
+    "cycle_type" : "random"
+}
