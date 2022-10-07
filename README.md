@@ -36,7 +36,7 @@ The GUI was build with Qt and Python. And also included a tab to generate synthe
 ## Model Viewer
 
 As part of a course in Computer Graphics I chose to build a Renderer to investigate different aspects of PBR textured objects. 
-The program was written in C++ with OpenGL. A small menu on the top right allows 
+The program was written in C++ with OpenGL. A small menu on the top right allows to turn different textures on and off or set one specific value for roughness and metallicness texture.
 
 [![model_viewer_prev](https://github.com/tmlittau/legacy_portfolio/blob/main/Model_Viewer/model_viewer_thumbnail.png)](https://github.com/tmlittau/legacy_portfolio/raw/main/Model_Viewer/Littau_pres.mov)
 
